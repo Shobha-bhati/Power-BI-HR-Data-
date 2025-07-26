@@ -1,7 +1,7 @@
-HR Analytics Dashboard – Tableau Project
+HR Analytics Dashboard –Power BI Project
 
 **Project Overview**
-This project presents an interactive HR Analytics Dashboard built using Tableau Desktop Public Edition. The objective is to analyze employee attrition patterns, workforce demographics, and job satisfaction metrics to support data-driven decision-making in Human Resources.
+This project presents an interactive HR Analytics Dashboard built using Power BI. The objective is to analyze employee attrition patterns, workforce demographics, and job satisfaction metrics to support data-driven decision-making in Human Resources.
 
 **Objectives**
 
@@ -27,18 +27,8 @@ This project presents an interactive HR Analytics Dashboard built using Tableau 
 
 5. Job Satisfaction Matrix by Role and Rating (heatmap)
 
-**Skills Demonstrated**
 
-1. Data visualization and dashboard design in Tableau
-
-2. Business understanding of HR metrics and employee behavior
-
-3. Data interpretation and analytical storytelling
-
-4. Use of Excel for preprocessing and data modeling
-
-5. Communication of insights through visual tools
 
 **Conclusion**
 
-This project demonstrates the use of Tableau for creating insightful, interactive dashboards that support HR decision-making. By visualizing key metrics like attrition, demographics, and job satisfaction, the dashboard provides a clear view of workforce trends. It reflects practical skills in business analytics and the ability to translate data into actionable insights.
+This project demonstrates the use of Power BI for creating insightful, interactive dashboards that support HR decision-making. By visualizing key metrics like attrition, demographics, and job satisfaction, the dashboard provides a clear view of workforce trends. It reflects practical skills in business analytics and the ability to translate data into actionable insights.
